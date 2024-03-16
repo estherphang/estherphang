@@ -1,7 +1,13 @@
-### Hi there 👋
+### Oh! Hello there! 👋
 
 - 🔭 I’m currently working on [SheTreks](https://github.com/jasperteo/SheTreks-frontend).
 - 📫 How to reach me: 📧 hello.estherp@gmail.com
+
+### Tech Stack
+Languages: Javascript, HTML, CSS, SQL
+FE: React, MUI, TailwindCSS, DaisyUI
+BE: ExpressJS, Postgres, Sequelize
+Others: Firebase, Axios
 
 <!--
 **estherphang/estherphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
