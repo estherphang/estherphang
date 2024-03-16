@@ -6,8 +6,8 @@
 ### Tech Stack
 - Languages: Javascript, HTML, CSS, SQL
 - Frontend: React, MUI, TailwindCSS, DaisyUI
-- Backend: ExpressJS, Postgres, Sequelize
-- Others: Firebase, Axios
+- Backend: Firebase, ExpressJS, Postgres, Sequelize
+- Others: Axios
 
 <!--
 **estherphang/estherphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
