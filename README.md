@@ -4,10 +4,10 @@
 - 📫 How to reach me: 📧 hello.estherp@gmail.com
 
 ### Tech Stack
-Languages: Javascript, HTML, CSS, SQL
-FE: React, MUI, TailwindCSS, DaisyUI
-BE: ExpressJS, Postgres, Sequelize
-Others: Firebase, Axios
+- Languages: Javascript, HTML, CSS, SQL
+- Frontend: React, MUI, TailwindCSS, DaisyUI
+- Backend: ExpressJS, Postgres, Sequelize
+- Others: Firebase, Axios
 
 <!--
 **estherphang/estherphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
