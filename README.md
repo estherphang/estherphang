@@ -1,6 +1,6 @@
 ### Oh! Hello there! 👋
 
-- 🔭 I’m currently working on [SheTreks](https://github.com/jasperteo/SheTreks-frontend).
+- 🔭 I’m currently working on [my portfolio](https://github.com/estherphang/portfolio).
 - 📫 How to reach me: 📧 hello.estherp@gmail.com
 
 ### Tech Stack
